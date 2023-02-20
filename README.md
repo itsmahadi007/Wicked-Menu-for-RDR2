@@ -1,6 +1,6 @@
 
 ***
- [DOWNLOAD LATEST VERSION](https://github.com/plumbwicked/Wicked-Menu-for-RDR2/releases/download/V4.6/Wicked.RDR2.V4.6.CT) 
+ [DOWNLOAD LATEST VERSION](https://github.com/plumbwicked/Wicked-Menu-for-RDR2/releases/download/v4.7/Wicked.RDR2.V4.7.CT)
 ***
 
 
