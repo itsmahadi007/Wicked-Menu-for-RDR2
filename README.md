@@ -14,6 +14,17 @@ Wicked Menu
 Change Logs/
 
 
+V4.7 
+
+Fixed:
+
+Treasure chest pointer Mad Thanks to m7alex2 https://www.unknowncheats.me/forum/members/2990907.html
+
+Added:
+
+Credits to Splash screen
+
+
 
 v4.6
 
