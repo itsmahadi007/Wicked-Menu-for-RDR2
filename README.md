@@ -1,6 +1,10 @@
+***
+This menu REQUIRES a Engine to run it.
+We recommend CheatengineLite to New Users. Although Any Version of cheat engine should work . 
+***
 
 ***
- [DOWNLOAD LATEST VERSION](https://github.com/plumbwicked/Wicked-Menu-for-RDR2/releases/download/V4.6/Wicked.RDR2.V4.6.CT) 
+ [DOWNLOAD LATEST MENU VERSION HERE](https://github.com/plumbwicked/Wicked-Menu-for-RDR2/releases/download/V4.6/Wicked.RDR2.V4.6.CT) 
 ***
 
 
